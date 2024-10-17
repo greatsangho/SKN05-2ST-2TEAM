@@ -36,65 +36,61 @@
   </tbody>
 </table>
 
-# 2. 프로젝트 개요
-- 프로젝트 명: 캘리포니아 지역 통신사 고객 이탈 예측
-- 프로젝트 소개: 고객의 서비스 사용 데이터를 바탕으로 이탈 여부를 예측하는 머신러닝 모델 개발
-- 프로젝트 필요성(배경): 고객 이탈은 통신사 매출에 큰 영향을 미치며, 고객 유치는 유지보다 비용이 높기 때문에 이탈 방지가 중요
-- 프로젝트 목표: 고객 이탈 가능성을 예측하여 이탈 위험 고객을 식별하고, 고객 유지율을 높이는 것
-
-# 3. 기술 스택
+# 2. 기술 스택
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 
-# 4. 가설과 가설 검정
-### :heavy_check_mark:가설 1: 고객의 만족도가 높을수록 이탈률이 낮다. 
-### :heavy_check_mark:가설 2: 제공된 혜택의 종류에 따라 이탈률이 달라진다. 
-### :heavy_check_mark:가설 3: 계약조건이 길 수록 이탈률이 낮다. 
-### :heavy_check_mark:가설 4: 가입기간이 길수록 이탈률이 낮다. 
-### :heavy_check_mark:가설 5: 부가서비스를 이용할 경우 이탈률이 낮다. 
-### :heavy_check_mark:가설 6: 기술지원을 받은 경험이 있으면 이탈률이 낮다. 
+# 3. 프로젝트 개요
+- 선정 주제: 캘리포니아 지역 통신사 고객 이탈 예측
+- 데이터 수: 행 7,044개, 열 66개
+- 프로젝트 필요성(배경): 한국 통신시장 점유
+- 프로젝트 목표: 캘리포니아 A통신사 고객 이탈률 예측을 통해 통신 시장에 대한 고찰
+- 분석 프로세스
 
+# 4. 데이터 분석 및 전처리
+**<데이터 개요>**
+- 컬럼 수: 총 66개의 컬럼 중 불필요한 37개의 컬럼 제거 후 29개 사용
+- 결측치 처리: Offer, Total Charges 등
+- 데이터의 특성을 고려하여 인코딩 진행: Age, Number of Dependents 등
 
-- **데이터 수집**:
-- **통계 분석**:
-- **결과 해석**:
-- **결과**:
-<i>가입 기간이 길수록 고객의 이탈 가능성이 낮다는 유의미한 결과를 도출함</i>
+**<전처리>**
+- 결측치 처리: Offer, Total Charges 등
+- 이상치 및 데이터 확인
+- 연속형 데이터의 분포 확인
+- 데이터 인코딩
 
-### :heavy_check_mark:가설 2: 
-- **데이터 수집**:
-- **통계 분석**:
-- **결과 해석**:
-- **결과**:
-<i></i>
+**<상관관계 분석>**
+- 주요 컬럼 및 최종 선정 컬럼
+- 가설에 따른 이탈률
 
-### 가설
-- 가설1:
-- 가설2:
-- 가설3:
-  
-### 가설 검정
-- 데이터 수집 결과
+# 5. 모델 성능비교 및 해석
+- 하이퍼파라미터 그리드 설정
+- Vorint, Stacking
+- 하이퍼파라미터 튜닝
+- GBM
+- ROC 커브 시각화 함수, Precision-recall 함수, 박스플롯 비교 함수
 
-- 데이터 분석(상관계수)
+# 6. 시사점
+- 통신사 이탈에 큰 영향을 미치는 주요 요인
+- 현재 통신사가 놓치고 있는 점
+- 고객 만족도 향상 전략
 
-- 모델 학습
+# 7. 통신사 고객 이탈 예측 ppt 링크
+[캔바 ppt 주소]("https://www.canva.com/design/DAGTuG1KW4w/Clzo1YJ_lDL_e5stxA1u5w/view?utm_content=DAGTuG1KW4w&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel")
 
-- 분석 결과
+# 8. Streamlit 화면구현
+![스트림릿 최종](https://github.com/user-attachments/assets/cac10952-3b85-4dca-bc11-f8e53dac6f70)
 
-
-# 5. 수행결과
-
-## 분석을 위한 전처리 코드
-
-
-
-
-- **데이터 분석**:
-
-
-
- 
- 
+# 9. 한줄 회고
+<!-- 주석 -->
+**허상호**: 
+<!-- 주석 -->
+**신혜원**:
+<!-- 주석 -->
+**안태영**:
+<!-- 주석 -->
+**윤상혁**:
+<!-- 주석 -->
+**박초연**: 팀원들에게 많이 배울 수 있었던 프로젝트 경험이었습니다!
