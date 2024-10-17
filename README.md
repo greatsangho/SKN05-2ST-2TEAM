@@ -9,28 +9,28 @@
     <tr>
       <td align="center">
         <div>
-          <img src="https://st2.depositphotos.com/1072614/10046/i/450/depositphotos_100461182-stock-photo-cat-with-books-isolated-on.jpg"width="100px;"height="100px;" alt=""/>
-          <a href="https://github.com/JUNGUIHEON"><div align=center>허상호</div></a>
+          <img src="https://cdn.discordapp.com/attachments/1295905336607375404/1296392221632761856/image.jpg?ex=67121ed7&is=6710cd57&hm=c617ea39f63d9d21077b0bed807b0445d9dcf83f2531a32bdd3c39cfc016cf83&"width="100px;"height="100px;" alt=""/>
+          <a href="https://github.com/greatsangho"><div align=center>허상호</div></a>
         </div>
       </td>
       <td align="center">
         <div>
           <img
-            src="https://st2.depositphotos.com/1072614/10046/i/450/depositphotos_100461182-stock-photo-cat-with-books-isolated-on.jpg"width="100px;" alt=""/>
-          <a href="https://github.com/gigcot"><div align=center>신혜원</div></a>
+            src="https://cdn.discordapp.com/attachments/1295905336607375404/1296393429277872158/image0.jpg?ex=67121ff7&is=6710ce77&hm=98fb46e2982c196d4489a79cf31c216b3eff95d450173c9f6393d52f6fc6f93d&"width="100px;" alt=""/>
+          <a href="https://github.com/"><div align=center>신혜원</div></a>
         </div>
       </td>
       <td align="center">
-        <img src="https://st2.depositphotos.com/1072614/10046/i/450/depositphotos_100461182-stock-photo-cat-with-books-isolated-on.jpg"width="100px;" alt=""/>
-        <a href="https://github.com/yhoon3002"><div align=center>안태영</div></a>
+        <img src="https://cdn.discordapp.com/attachments/1275735988542378018/1296390947009204334/IMG_6249.jpg?ex=67121da7&is=6710cc27&hm=a06076a4ec56ca236455d95d319653886c4c807b65f7c81548ad3eba792302f3&"width="100px;" alt=""/>
+        <a href="https://blog.naver.com/anthony_0502"><div align=center>안태영</div></a>
       </td>
       <td align="center">
-        <img src="https://st2.depositphotos.com/1072614/10046/i/450/depositphotos_100461182-stock-photo-cat-with-books-isolated-on.jpg"width="100px;" alt=""/>
-        <a href="https://github.com/ih9511"><div align=center>윤상혁</div></a>
+        <img src="https://cdn.discordapp.com/attachments/1295905336607375404/1296394252787384383/image0.jpg?ex=671220bb&is=6710cf3b&hm=1a3371c8fc0b18a066568477dea437e72447b42e9dabbd9032a3a54842a73da7&"width="100px;" alt=""/>
+        <a href="https://github.com/ggreing"><div align=center>윤상혁</div></a>
       </td>
       <td align="center">
-        <img src="https://st2.depositphotos.com/1072614/10046/i/450/depositphotos_100461182-stock-photo-cat-with-books-isolated-on.jpg"width="100px;" alt=""/>
-        <a href="https://github.com/heowooyoung"><div align=center>박초연</div></a>
+        <img src="https://cdn.discordapp.com/attachments/1295905336607375404/1296395243763273820/image1.jpg?ex=671221a7&is=6710d027&hm=ed0b69e1156459d140a9bb610650f5ec4e3e76a94d80f23c6478ad4974dc77eb&"width="100px;" alt=""/>
+        <a href="https://github.com/"><div align=center>박초연</div></a>
       </td>
     </tr>
   </tbody>
@@ -85,12 +85,12 @@
 
 # 9. 한줄 회고
 <!-- 주석 -->
-**허상호**: 
+**허상호**: 첫번째 프로젝트를 발판삼아 두번째 프로젝트는 더 재미있게 할 수 있었습니다. 대회 준비를 하며 공부했던 것이 많이 도움이 되었습니다~~!!
 <!-- 주석 -->
-**신혜원**:
+**신혜원**: 다양한 모델을 돌려 예측값을 얻고 예측값을 가지고 비즈니스에 적용해 볼 수 있었던 좋은 기회였습니다.
 <!-- 주석 -->
-**안태영**:
+**안태영**: 머신러닝을 통해 고객 이탈 0.96 정확도를 달성을 경험했습니다. 많은 것들을 배우고 사용하는 유용한 시간이 되었습니다.
 <!-- 주석 -->
-**윤상혁**:
+**윤상혁**: 부트캠프를 수강하면서 배운 내용들을 복습할 수 있는 좋은 기회였다고 생각한다. 특히 이번에 시각화 관련 코드를 작성하면서 많이 익숙해져 좋았다.
 <!-- 주석 -->
 **박초연**: 팀원들에게 많이 배울 수 있었던 프로젝트 경험이었습니다!
