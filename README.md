@@ -79,10 +79,12 @@
 - 고객 만족도 향상 전략
 
 # 7. 통신사 고객 이탈 예측 ppt 링크
-[캔바 ppt 주소]("https://www.canva.com/design/DAGTuG1KW4w/Clzo1YJ_lDL_e5stxA1u5w/view?utm_content=DAGTuG1KW4w&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel")
+<a href="https://www.canva.com/design/DAGTuG1KW4w/Clzo1YJ_lDL_e5stxA1u5w/view?utm_content=DAGTuG1KW4w&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#1">캔바 ppt 주소</a>
 
 # 8. Streamlit 화면구현
 ![스트림릿 최종](https://github.com/user-attachments/assets/cac10952-3b85-4dca-bc11-f8e53dac6f70)
+
+- 
 
 # 9. 한줄 회고
 <!-- 주석 -->
