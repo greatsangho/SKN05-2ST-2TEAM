@@ -49,7 +49,14 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 
 # 4. 가설과 가설 검정
-### :heavy_check_mark:가설 1: 고객의 가입 기간이 길수록 이탈 가능성이 낮다
+### :heavy_check_mark:가설 1: 고객의 만족도가 높을수록 이탈률이 낮다. 
+### :heavy_check_mark:가설 2: 제공된 혜택의 종류에 따라 이탈률이 달라진다. 
+### :heavy_check_mark:가설 3: 계약조건이 길 수록 이탈률이 낮다. 
+### :heavy_check_mark:가설 4: 가입기간이 길수록 이탈률이 낮다. 
+### :heavy_check_mark:가설 5: 부가서비스를 이용할 경우 이탈률이 낮다. 
+### :heavy_check_mark:가설 6: 기술지원을 받은 경험이 있으면 이탈률이 낮다. 
+
+
 - **데이터 수집**:
 - **통계 분석**:
 - **결과 해석**:
