@@ -1,4 +1,92 @@
 # SKN05-2ST-2TEAM
+
+✅ Second Project  
+Huh Sang-ho, Shin Hye-won, Ahn Tae-young, Yoon Sang-hyuk, Park Cho-yeon  
+Development Period: 2024.10.16–10.17
+
+## 1. Team Introduction
+
+        Heo Sang-ho
+
+        Shin Hye-won
+
+        Ahn Tae-young
+        
+        Yoon Sang-hyuk
+        
+        Park Cho-yeon
+
+## 2. Technology Stack
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+
+## 3. Project Overview
+
+- **Selected Topic:** Predicting customer churn for a California-region telecommunications provider  
+- **Data Size:** 7,044 rows and 66 columns  
+- **Project Necessity (Background):** Capturing market share in the Korean telecommunications market  
+- **Project Goal:** Derive insights into the telecommunications market by predicting the churn rate of customers from California Telecom A  
+- **Analysis Process**
+
+## 4. Data Analysis and Preprocessing
+
+**Data Overview**  
+- **Number of Columns:** Out of 66 total columns, 37 unnecessary columns were removed, leaving 29 columns in use  
+- **Missing Value Handling:** Applied to fields such as Offer and Total Charges  
+- **Encoding Based on Data Characteristics:** Applied to attributes like Age, Number of Dependents, etc.
+
+**Preprocessing**  
+- Handled missing values for fields like Offer and Total Charges  
+- Checked for outliers and verified the data  
+- Examined the distribution of continuous data  
+- Performed data encoding
+
+**Correlation Analysis**  
+- Identified key columns and finalized the selected set of columns  
+- Analyzed churn rates based on formulated hypotheses
+
+## 5. Model Performance Comparison and Interpretation
+
+- Set up the hyperparameter grid  
+- Applied Vorint and Stacking methods  
+- Performed hyperparameter tuning  
+- Used GBM (Gradient Boosting Machine)  
+- Developed functions for ROC curve visualization, precision-recall analysis, and boxplot comparisons
+
+## 6. Implications
+
+- Identified the major factors that significantly affect telecommunications customer churn  
+- Highlighted aspects currently overlooked by telecom companies  
+- Proposed strategies to enhance customer satisfaction
+
+## 7. Telecom Customer Churn Prediction PPT Link
+
+Canva PPT Link
+
+## 8. Streamlit User Interface Implementation
+
+Final Streamlit
+
+- Data analysis confirmed that customer satisfaction, contract duration, and gift provision are highly correlated  
+- It was demonstrated that by offering attractive gifts based on contract duration to customers with an initial churn rate of 56%, the churn rate could be reduced to 37%
+
+## 9. One-Line Reflections
+
+**Huh Sang-ho:** Building on our first project, we were able to make the second project even more engaging. The preparation for the competition and the studies undertaken proved very helpful.
+
+**Shin Hye-won:** This project provided a great opportunity to run various models, obtain predictions, and apply these insights to business contexts.
+
+**Ahn Tae-young:** I achieved a 0.96 accuracy in predicting customer churn through machine learning. It was an extremely valuable experience filled with learning opportunities.
+
+**Yoon Sang-hyuk:** I found it to be a great chance to review the material learned during bootcamp. Writing visualization-related code, in particular, helped me gain familiarity with the process.
+
+**Park Cho-yeon:** This project was an excellent experience where I learned a great deal from my teammates!
+
+---
+
 ✅2차 프로젝트
 허상호,신혜원,안태영,윤상혁,박초연<br>
 개발기간: 2024.10.16-10.17
