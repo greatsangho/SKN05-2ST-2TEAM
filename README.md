@@ -1,4 +1,4 @@
-# SKN05-2ST-2TEAM
+# SKN05-2ND-2TEAM
 
 ✅ Second Project  
 Huh Sang-ho, Shin Hye-won, Ahn Tae-young, Yoon Sang-hyuk, Park Cho-yeon  
